@@ -1,4 +1,4 @@
-const {  DatePro } = require("./index");
+const {  DatePro } = require("./datePro.js");
 
 const instance1 = new DatePro();
 
